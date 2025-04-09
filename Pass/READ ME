@@ -1,0 +1,23 @@
+ 🔐 Password Generator
+
+A simple and responsive web-based Password Generator built using HTML, CSS, and JavaScript. This tool allows users to generate strong, random passwords based on customizable options like length and character types.
+
+Features
+
+- Generate secure and random passwords
+- Choose password length
+- Toggle inclusion of:
+  - Uppercase letters
+  - Lowercase letters
+  - Numbers
+  - Special characters
+- Copy password to clipboard
+- Responsive design for all screen sizes
+
+## 🛠️ Technologies Used
+
+- HTML5
+- CSS3 (Flexbox, Responsive Design)
+- JavaScript (DOM manipulation, clipboard API)
+
+
